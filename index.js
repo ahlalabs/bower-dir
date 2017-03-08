@@ -13,4 +13,4 @@ if( isEmpty( bowerrcobj ) === false ){
   }
 }
 
-module.export = bowerdir;
+module.exports = bowerdir;
