@@ -1,0 +1,26 @@
+{
+  "name": "bower-dir",
+  "version": "1.0.0",
+  "description": "Get bower components folder path easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahlalabs/bower-dir.git"
+  },
+  "keywords": [
+    "bower",
+    "bower-dir",
+    "bower-directory",
+    "bower-path",
+    "directory"
+  ],
+  "author": "Hamed Almamari <alonedream15h@gmail.com> (http://ahlalabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahlalabs/bower-dir/issues"
+  },
+  "homepage": "https://github.com/ahlalabs/bower-dir#readme"
+}
